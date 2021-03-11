@@ -26,9 +26,9 @@ propia librería (o biblioteca - library) en JavaScript.
 ## 2. Diagrama de flujo
 
 ### API
-  ![Diagrama](img/Diagrama1.png)
+  ![DiagramaAPI](img/Diagrama1.png)
 ### CLI
-  ![Diagrama](img/Diagrama2.png)
+  ![DiagramaCLI](img/Diagrama2.png)
 
 
 ## 3. Product Backlog
