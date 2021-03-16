@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "start": "node src/API/md-links.js",
     "eslint": "eslint --ext .js  test/",
     "pretest": "npm run eslint",
     "test": "jest --verbose --coverag"
@@ -24,7 +25,10 @@
   "author": "Milumon",
   "license": "MIT",
   "dependencies": {
-    "jest": "^26.6.3"
+    "jest": "^26.6.3",
+    "jsdom": "^16.5.1",
+    "marked": "^2.0.1",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "eslint": "^7.21.0",
